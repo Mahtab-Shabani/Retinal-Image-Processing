@@ -13,4 +13,6 @@ Details: <br />
 
 Link in the National Library:
 [Link](https://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7036702&pageStatus=0&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author#)<br />
-<img width="1280" height="889" alt="1600543503698" src="https://github.com/user-attachments/assets/064508b1-4023-40bf-a84e-3fc3c813bc19" />
+
+
+<img width="800" alt="1600543503698" src="https://github.com/user-attachments/assets/064508b1-4023-40bf-a84e-3fc3c813bc19" />
