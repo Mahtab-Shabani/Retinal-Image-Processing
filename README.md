@@ -1,4 +1,16 @@
 # Retinal-Image-Processing
+    
+‏<br/>
+عنوان و نام پديدآور 	: 	پردازش تصاویر شبکیه چشم/ نویسنده مهتاب شعبانی<br/>
+نوع تآلیف: مؤلف<br/> ‬‬
+‏مشخصات نشر 	: 	تهران‏‫: میعاد اندیشه‬‏‫، ۱۳۹۹.‬ <br/>
+مشخصات ظاهری 	: 	‏‫۹۴ص.‬: مصور، جدول، نمودار‏‫؛ ‏‫‏۱۴/۵×۲۰/۵ س‌م.‬‬ <br/>
+‏شابک 	‏‫: ‭978-622-231-327-2‬
+
+    
+<br/>
+
+
 This is a book that describes the process of segmenting blood vessels in retinal images, covering the entire workflow from start to finish. A primary objective is to present various algorithms capable of effectively segmenting these images, even in the presence of noise and non-uniform illumination. The book is organized into three parts: the first introduces medical imaging, the anatomy of the eye, existing limitations and challenges, and the necessity for automated segmentation. The second part explores and explains various methods for the segmentation of medical images. Finally, the last part focuses on evaluating the segmentation algorithm and assessing its performance.<br />
 
 I dedicate this book to my parents -the most important people in the world to me - and express my gratitude to them for their endless support.
